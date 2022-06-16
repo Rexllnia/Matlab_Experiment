@@ -1,0 +1,1 @@
+conn = database('test', 'admin', '123456', 'com.mysql.jdbc.Driver', 'jdbc:mysql://192.168.5.1:3306/test') 
